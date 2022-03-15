@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YGCzT8eFJO4d2iNP1VvFs1PyEeBO3wC0WlFsQruMDfPobCeeEC3hjJC8JnfNfy/EqTm4TboNNoyza1C4paSvsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dryla\\Documents\\Tutorial_Projects\\CPE\\CPE\\CPE\\CPE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dryla\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dryla\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\dryla\\.nuget\\packages\\plugin.permissions\\6.0.1\\plugin.permissions.6.0.1.nupkg.sha512",
+    "C:\\Users\\dryla\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\dryla\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\dryla\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

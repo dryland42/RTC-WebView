@@ -1,0 +1,15 @@
+C:\Users\dryla\Documents\Tutorial_Projects\CPE\CPE\CPE\bin\Debug\netstandard2.0\CPE.deps.json
+C:\Users\dryla\Documents\Tutorial_Projects\CPE\CPE\CPE\bin\Debug\netstandard2.0\CPE.dll
+C:\Users\dryla\Documents\Tutorial_Projects\CPE\CPE\CPE\bin\Debug\netstandard2.0\CPE.pdb
+C:\Users\dryla\Documents\Tutorial_Projects\CPE\CPE\CPE\obj\Debug\netstandard2.0\CPE.csproj.AssemblyReference.cache
+C:\Users\dryla\Documents\Tutorial_Projects\CPE\CPE\CPE\obj\Debug\netstandard2.0\CPE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dryla\Documents\Tutorial_Projects\CPE\CPE\CPE\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dryla\Documents\Tutorial_Projects\CPE\CPE\CPE\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dryla\Documents\Tutorial_Projects\CPE\CPE\CPE\obj\Debug\netstandard2.0\CPE.AssemblyInfoInputs.cache
+C:\Users\dryla\Documents\Tutorial_Projects\CPE\CPE\CPE\obj\Debug\netstandard2.0\CPE.AssemblyInfo.cs
+C:\Users\dryla\Documents\Tutorial_Projects\CPE\CPE\CPE\obj\Debug\netstandard2.0\CPE.csproj.CoreCompileInputs.cache
+C:\Users\dryla\Documents\Tutorial_Projects\CPE\CPE\CPE\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dryla\Documents\Tutorial_Projects\CPE\CPE\CPE\obj\Debug\netstandard2.0\CPE.dll
+C:\Users\dryla\Documents\Tutorial_Projects\CPE\CPE\CPE\obj\Debug\netstandard2.0\refint\CPE.dll
+C:\Users\dryla\Documents\Tutorial_Projects\CPE\CPE\CPE\obj\Debug\netstandard2.0\CPE.pdb
+C:\Users\dryla\Documents\Tutorial_Projects\CPE\CPE\CPE\obj\Debug\netstandard2.0\ref\CPE.dll

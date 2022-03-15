@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bWUyjyEqGk8l5w2iYo0eGZi3zE3ynwQovWRzbm7Ed9/uWedWUItc8n8LZ1ltk6RyJ0y/j0vriLcaG2kHIG8sYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dryla\\Documents\\Tutorial_Projects\\CPE\\CPE\\CPE.iOS\\CPE.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dryla\\.nuget\\packages\\plugin.permissions\\6.0.1\\plugin.permissions.6.0.1.nupkg.sha512",
+    "C:\\Users\\dryla\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\dryla\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\dryla\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
